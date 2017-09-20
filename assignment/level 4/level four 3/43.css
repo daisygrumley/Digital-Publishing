@@ -1,0 +1,19 @@
+h1 {
+    padding-top: 20px;
+    text-align: center;
+    font-family: futura;
+    border-top: 2px solid black
+}
+strong {
+    font-family: futura;
+    font-weight: bold;
+}
+p {
+    font-family: georgia;
+}
+body {
+    height: 980px;
+    padding: 20px;
+    width: 980px;
+    border-bottom: 2px solid black;
+}

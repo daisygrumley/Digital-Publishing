@@ -1,0 +1,14 @@
+head {
+    margin-left: 50px;
+}
+
+body {
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 1250px;
+    width: 500px;
+    border: 1px solid black;
+}

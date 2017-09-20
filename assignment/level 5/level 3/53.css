@@ -1,0 +1,40 @@
+h1 {
+    color: white;
+    font-family: futura;
+    padding-bottom: 10px;
+    border-bottom: 4px solid white
+}
+body {
+    background: black;
+}
+h3 {
+    color:white;
+    font-family: futura;
+}
+p1 {
+    color:white;
+    font-family:futura;
+}
+p2 {
+    color:lightgrey;
+    font-family: futura;
+}
+p3 {
+    color: darkgrey;
+    font-family: futura;
+}
+p4 {
+    color: grey;
+    font-family: futura;
+}
+p5 {
+    color: dimgrey;
+    font-family: futura;
+}
+body{
+    width: 800px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    height: 1250px;
+}
